@@ -1,0 +1,10 @@
+{
+  "name": "ЖК Остров — кабинет проекта",
+  "short_name": "Остров",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#f4f1eb",
+  "lang": "ru",
+  "description": "Личный кабинет дизайн-проекта, инженерии и комплектации"
+}
